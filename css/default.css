@@ -1,0 +1,55 @@
+h1{
+    color: white;
+    border-color: 20px red;
+    border: 20px red;
+}
+
+#respuesta{
+    color: white;
+}
+
+footer{
+    color: darkgray;
+}
+
+/*Backgroung Image Body*/
+.index{
+    background-image: url(/Resources/54338.jpg);
+    height: 100%;
+}
+
+.comic{
+    background-image: url(/Resources/54334.jpg);
+    height: 100%;
+}
+
+.creditos{
+    background-image: url(/Resources/54389.jpg);
+    height: 100%;
+}
+
+.programas{
+    background-image: url(/Resources/55127.jpg);
+    height: 100%;
+}
+
+.test{
+    background-image: url(/Resources/sin_titulo.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+/*NAVBAR*/
+nav{
+    
+
+}
+
+
+/*Test*/
+#test{
+    padding: 10px;
+    color: aliceblue;
+    text-align:justify;
+}
